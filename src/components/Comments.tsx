@@ -18,7 +18,7 @@ export default async function Comments({ postSlug }: { postSlug: string }) {
     <div>
       <CommentForm postSlug={postSlug} />
       <h2>Comment Section</h2>
-      {/* {@ts-ignore} */}
+      {/* @ts-ignore */}
       {comments.map((comment) => {
         return (
           <ul>
