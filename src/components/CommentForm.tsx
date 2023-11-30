@@ -1,50 +1,36 @@
-"use client";
-import React from "react";
-import { useRouter } from "next/navigation";
-import { useTransition } from "react";
-import { WEB_SITE } from "config";
+import FormStatusButton from "./FormStatusButton";
+
+import { saveComment } from "@/lib/comments";
+
+// gives us a way to reload page after data updates.
+import { revalidatePath } from "next/cache";
 
 export function CommentForm({ postSlug }: { postSlug: string }) {
-  const router = useRouter();
-  const [isPending, startTransition] = useTransition();
+  console.log("This is running on the browser");
 
-  async function handleFormSubmit(event: React.FormEvent<HTMLFormElement>) {
-    console.log("submitting the form");
-    event.preventDefault();
+  // When our form action fires, this function runs the createComments function. No more visiting our API!
+  async function handleFormSubmit(formData: FormData) {
+    "use server";
+    console.log("submiting the form");
 
-    const username = event.target["username"].value;
-    const comment = event.target["comment"].value;
-
-    const formData = new FormData();
-    formData.append("username", username);
-    formData.append("comment", comment);
-
-    const res = await fetch(`${WEB_SITE}/api/comments/${postSlug}`, {
-      body: formData,
-      method: "POST",
-    });
-
-    startTransition(() => {
-      router.refresh();
-      console.log("reloaded the page data");
-    });
+    const username = formData.get("username") as string;
+    const comment = formData.get("comment") as string;
+    await saveComment(username, comment, postSlug);
+    revalidatePath(`/blog/${postSlug}`);
   }
-  return (
-    <form onSubmit={handleFormSubmit}>
-      <label htmlFor="username">Name</label>
-      <input type="text" name="username" />
 
+  return (
+    <form action={handleFormSubmit}>
+      <label htmlFor="username">Name</label>
+      <input type="text" name="username" className="text-neutral-900" />
       <label htmlFor="comment">Comment</label>
       <textarea
         name="comment"
         cols={30}
         rows={10}
-        placeholder="Write your comment here"
         className="text-neutral-900"
       />
-      <button type="submit" disabled={isPending}>
-        {isPending ? "sending comment..." : "send comment"}
-      </button>
+      <FormStatusButton />
     </form>
   );
 }
