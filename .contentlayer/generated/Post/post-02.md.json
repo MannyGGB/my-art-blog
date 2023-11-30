@@ -2,8 +2,8 @@
   "title": "My Second Post",
   "date": "2023-11-28T00:00:00.000Z",
   "body": {
-    "raw": "\r\nThis is a blog post! It's the second blog post.\r\n",
-    "html": "<p>This is a blog post! It's the second blog post.</p>"
+    "raw": "\r\n![sample](../sample.jpg)\r\n\r\nThis is a blog post! It's the second blog post.\r\n",
+    "html": "<p><img src=\"../sample.jpg\" alt=\"sample\"></p>\n<p>This is a blog post! It's the second blog post.</p>"
   },
   "_id": "post-02.md",
   "_raw": {

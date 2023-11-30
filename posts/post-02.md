@@ -3,4 +3,6 @@ title: My Second Post
 date: 2023-11-28
 ---
 
+![sample](../sample.jpg)
+
 This is a blog post! It's the second blog post.

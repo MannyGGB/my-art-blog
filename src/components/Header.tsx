@@ -3,9 +3,7 @@ import Link from "next/link";
 export default function Header() {
   return (
     <div>
-      <h1>Header</h1>
-
-      <nav>
+      <nav className="flex justify-between p-10">
         <Link href="/">Home</Link>
         <Link href="/about">About Me</Link>
         <Link href="/blog">Art Blog</Link>
