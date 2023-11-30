@@ -26,14 +26,14 @@ export default function BlogPost({ params }: BlogPostParams) {
     notFound();
   }
   return (
-    <div>
+    <main className="flex min-h-screen flex-col items-center justify-evenly p-24">
       <h1>{post.title}</h1>
       <article
         dangerouslySetInnerHTML={{ __html: post.body.html }}
-        className="prose dark:prose-invert"
+        className=" flex min-h-screen flex-col items-center justify-evenly p-24 prose dark:prose-invert"
       ></article>
       {/* {@ts-ignore} */}
       <Comments postSlug={params.slug} />
-    </div>
+    </main>
   );
 }

@@ -7,8 +7,8 @@ export default function FormStatusButton() {
   //useFormStatus has to be used inside a <form> tag.
   //we can extract the current "pending" status
   return (
-    <button type="submit" disabled={pending}>
-      {pending ? "sending comment..." : "send comment"}
+    <button type="submit" disabled={pending} className="text-amber-500">
+      {pending ? "Sending comment..." : "Send comment"}
     </button>
   );
 }

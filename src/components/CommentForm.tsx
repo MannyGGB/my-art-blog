@@ -20,15 +20,15 @@ export function CommentForm({ postSlug }: { postSlug: string }) {
   }
 
   return (
-    <form action={handleFormSubmit}>
-      <label htmlFor="username">Name</label>
-      <input type="text" name="username" className="text-neutral-900" />
-      <label htmlFor="comment">Comment</label>
+    <form action={handleFormSubmit} className="flex flex-col">
+      <label htmlFor="username">Name:</label>
+      <input type="text" name="username" className="text-neutral-900 rounded" />
+      <label htmlFor="comment">Comment:</label>
       <textarea
         name="comment"
         cols={30}
         rows={10}
-        className="text-neutral-900"
+        className="text-neutral-900 rounded"
       />
       <FormStatusButton />
     </form>

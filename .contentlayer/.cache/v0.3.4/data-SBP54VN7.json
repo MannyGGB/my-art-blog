@@ -2,11 +2,11 @@
   "cacheItemsMap": {
     "post-01.md": {
       "document": {
-        "title": "My First Post",
-        "date": "2023-11-28T00:00:00.000Z",
+        "title": "Flowers in a Metal Vase | Abraham Mignon",
+        "date": "2023-11-30T00:00:00.000Z",
         "body": {
-          "raw": "\r\n![sample](../sample.jpg)\r\n\r\nThis is a blog post! It's the first blog post.\r\n",
-          "html": "<p><img src=\"../sample.jpg\" alt=\"sample\"></p>\n<p>This is a blog post! It's the first blog post.</p>"
+          "raw": "\r\n![sample](../sample.jpg)\r\n\r\nMignon, a painter of flower still-lifes, came from Frankfurt and lived in Utrecht. His lavish flower still-lifes look very similar to those of his master Jan Davidsz de Heem, but they are a little stronger in form and colour.\r\n\r\nThe painting belongs with the other flower still-life that is also hanging here. They come from the collection of the Orange-Nassau family and were hung in Oranienstein Castle in Diez, Germany, in the eighteenth century.\r\n\r\n(https://artsandculture.google.com/asset/flowers-in-a-metal-vase-mignon-abraham/aQHmFaru0w9mtw?hl=en)\r\n",
+          "html": "<p><img src=\"../sample.jpg\" alt=\"sample\"></p>\n<p>Mignon, a painter of flower still-lifes, came from Frankfurt and lived in Utrecht. His lavish flower still-lifes look very similar to those of his master Jan Davidsz de Heem, but they are a little stronger in form and colour.</p>\n<p>The painting belongs with the other flower still-life that is also hanging here. They come from the collection of the Orange-Nassau family and were hung in Oranienstein Castle in Diez, Germany, in the eighteenth century.</p>\n<p>(https://artsandculture.google.com/asset/flowers-in-a-metal-vase-mignon-abraham/aQHmFaru0w9mtw?hl=en)</p>"
         },
         "_id": "post-01.md",
         "_raw": {
@@ -20,17 +20,17 @@
         "url": "/posts/post-01",
         "slug": "post-01"
       },
-      "documentHash": "1701352315923",
+      "documentHash": "1701358079173",
       "hasWarnings": false,
       "documentTypeName": "Post"
     },
     "post-02.md": {
       "document": {
-        "title": "My Second Post",
-        "date": "2023-11-28T00:00:00.000Z",
+        "title": "Creation of the Birds | Remedios Varo",
+        "date": "2023-11-30T00:00:00.000Z",
         "body": {
-          "raw": "\r\n![sample](../sample.jpg)\r\n\r\nThis is a blog post! It's the second blog post.\r\n",
-          "html": "<p><img src=\"../sample.jpg\" alt=\"sample\"></p>\n<p>This is a blog post! It's the second blog post.</p>"
+          "raw": "\r\n![light-creator](../light-creator.webp)\r\n\r\n\"Creation of the Birds\" by Remedios Varo, painted in 1957, is a spellbinding artwork that unfolds a surreal narrative of transformation and enchantment. Varo's meticulous detail and dreamlike symbolism depict a mystical alchemist surrounded by winged beings, weaving a tapestry of magical realism. The ethereal atmosphere and intricate patterns evoke a sense of otherworldly wonder, inviting viewers to delve into the artist's imaginative universe. Through her mastery of technique and evocative storytelling, Varo crafts a transcendent tableau that blurs the boundaries between reality and fantasy, leaving an indelible mark on those who encounter the enchanting \"Creation of the Birds.\"\r\n\r\n(ChatGPT)\r\n",
+          "html": "<p><img src=\"../light-creator.webp\" alt=\"light-creator\"></p>\n<p>\"Creation of the Birds\" by Remedios Varo, painted in 1957, is a spellbinding artwork that unfolds a surreal narrative of transformation and enchantment. Varo's meticulous detail and dreamlike symbolism depict a mystical alchemist surrounded by winged beings, weaving a tapestry of magical realism. The ethereal atmosphere and intricate patterns evoke a sense of otherworldly wonder, inviting viewers to delve into the artist's imaginative universe. Through her mastery of technique and evocative storytelling, Varo crafts a transcendent tableau that blurs the boundaries between reality and fantasy, leaving an indelible mark on those who encounter the enchanting \"Creation of the Birds.\"</p>\n<p>(ChatGPT)</p>"
         },
         "_id": "post-02.md",
         "_raw": {
@@ -44,17 +44,17 @@
         "url": "/posts/post-02",
         "slug": "post-02"
       },
-      "documentHash": "1701352301633",
+      "documentHash": "1701358083803",
       "hasWarnings": false,
       "documentTypeName": "Post"
     },
     "post-03.md": {
       "document": {
-        "title": "My Third Post",
-        "date": "2023-11-28T00:00:00.000Z",
+        "title": "Le Grand Adieu | Leonora Carrington",
+        "date": "2023-11-30T00:00:00.000Z",
         "body": {
-          "raw": "\r\n![sample](../sample.jpg)\r\n\r\nThis is a blog post! It's the third blog post.\r\n",
-          "html": "<p><img src=\"../sample.jpg\" alt=\"sample\"></p>\n<p>This is a blog post! It's the third blog post.</p>"
+          "raw": "\r\n![leonora-carrington_le-grand-adieu](../leonora-carrington_le-grand-adieu.jpg)\r\n\r\n\"Le Grand Adieu\" by Leonora Carrington is a surreal and enchanting painting that captivates viewers with its dreamlike narrative. Carrington, a prominent surrealist artist, brings forth a fantastical world where mythical creatures, symbolic imagery, and intricate details converge. The artwork, created in 1947, reflects Carrington's unique perspective and fascination with the mystical. The composition exudes a sense of mystery and invites viewers to unravel its symbolic layers. With meticulous craftsmanship and a rich palette, Carrington's \"Le Grand Adieu\" stands as a testament to her ability to transport observers into realms where reality and imagination intertwine seamlessly.\r\n\r\n(ChatGPT)\r\n",
+          "html": "<p><img src=\"../leonora-carrington_le-grand-adieu.jpg\" alt=\"leonora-carrington_le-grand-adieu\"></p>\n<p>\"Le Grand Adieu\" by Leonora Carrington is a surreal and enchanting painting that captivates viewers with its dreamlike narrative. Carrington, a prominent surrealist artist, brings forth a fantastical world where mythical creatures, symbolic imagery, and intricate details converge. The artwork, created in 1947, reflects Carrington's unique perspective and fascination with the mystical. The composition exudes a sense of mystery and invites viewers to unravel its symbolic layers. With meticulous craftsmanship and a rich palette, Carrington's \"Le Grand Adieu\" stands as a testament to her ability to transport observers into realms where reality and imagination intertwine seamlessly.</p>\n<p>(ChatGPT)</p>"
         },
         "_id": "post-03.md",
         "_raw": {
@@ -68,7 +68,7 @@
         "url": "/posts/post-03",
         "slug": "post-03"
       },
-      "documentHash": "1701352305483",
+      "documentHash": "1701358067243",
       "hasWarnings": false,
       "documentTypeName": "Post"
     }

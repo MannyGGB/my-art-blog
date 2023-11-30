@@ -1,9 +1,9 @@
 {
-  "title": "My First Post",
-  "date": "2023-11-28T00:00:00.000Z",
+  "title": "Flowers in a Metal Vase | Abraham Mignon",
+  "date": "2023-11-30T00:00:00.000Z",
   "body": {
-    "raw": "\r\n![sample](../sample.jpg)\r\n\r\nThis is a blog post! It's the first blog post.\r\n",
-    "html": "<p><img src=\"../sample.jpg\" alt=\"sample\"></p>\n<p>This is a blog post! It's the first blog post.</p>"
+    "raw": "\r\n![sample](../sample.jpg)\r\n\r\nMignon, a painter of flower still-lifes, came from Frankfurt and lived in Utrecht. His lavish flower still-lifes look very similar to those of his master Jan Davidsz de Heem, but they are a little stronger in form and colour.\r\n\r\nThe painting belongs with the other flower still-life that is also hanging here. They come from the collection of the Orange-Nassau family and were hung in Oranienstein Castle in Diez, Germany, in the eighteenth century.\r\n\r\n(https://artsandculture.google.com/asset/flowers-in-a-metal-vase-mignon-abraham/aQHmFaru0w9mtw?hl=en)\r\n",
+    "html": "<p><img src=\"../sample.jpg\" alt=\"sample\"></p>\n<p>Mignon, a painter of flower still-lifes, came from Frankfurt and lived in Utrecht. His lavish flower still-lifes look very similar to those of his master Jan Davidsz de Heem, but they are a little stronger in form and colour.</p>\n<p>The painting belongs with the other flower still-life that is also hanging here. They come from the collection of the Orange-Nassau family and were hung in Oranienstein Castle in Diez, Germany, in the eighteenth century.</p>\n<p>(https://artsandculture.google.com/asset/flowers-in-a-metal-vase-mignon-abraham/aQHmFaru0w9mtw?hl=en)</p>"
   },
   "_id": "post-01.md",
   "_raw": {

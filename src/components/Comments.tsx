@@ -15,13 +15,13 @@ export default async function Comments({ postSlug }: { postSlug: string }) {
     console.log(err);
   }
   return (
-    <div>
+    <div className="flex flex-col">
       <CommentForm postSlug={postSlug} />
-      <h2>Comment Section</h2>
+
       {/* @ts-ignore */}
       {comments.map((comment) => {
         return (
-          <ul key={comment.id}>
+          <ul key={comment.id} className=" p-5">
             <li>
               {comment.username} says...
               <br />
