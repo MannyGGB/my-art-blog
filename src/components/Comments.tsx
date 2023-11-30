@@ -21,8 +21,8 @@ export default async function Comments({ postSlug }: { postSlug: string }) {
       {/* @ts-ignore */}
       {comments.map((comment) => {
         return (
-          <ul>
-            <li key={comment.id}>
+          <ul key={comment.id}>
+            <li>
               {comment.username} says...
               <br />
               {comment.content}
