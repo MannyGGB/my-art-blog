@@ -7,7 +7,7 @@ export default function ArtBlogPage() {
 
   return (
     <main className="flex min-h-screen flex-col items-center justify-evenly p-24">
-      <h2>My Art Posts: </h2>
+      <h2 className="font-bold">My Art Posts: </h2>
       <ul>
         {posts.map((post) => {
           return (

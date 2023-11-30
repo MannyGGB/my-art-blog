@@ -1,4 +1,5 @@
 import React from "react";
+import Link from "next/link";
 import Comments from "@/components/Comments";
 import { getPosts, getPostBySlug } from "@/lib/posts";
 import { notFound } from "next/navigation";
@@ -27,7 +28,9 @@ export default function BlogPost({ params }: BlogPostParams) {
   }
   return (
     <main className="flex min-h-screen flex-col items-center justify-evenly p-24">
-      <h1>{post.title}</h1>
+      <Link href="/blog" className="text-amber-500 font-bold">
+        {post.title}
+      </Link>
       <article
         dangerouslySetInnerHTML={{ __html: post.body.html }}
         className=" flex min-h-screen flex-col items-center justify-evenly p-24 prose dark:prose-invert"
