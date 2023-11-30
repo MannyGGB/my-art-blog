@@ -3,8 +3,14 @@ title: Creation of the Birds | Remedios Varo
 date: 2023-11-30
 ---
 
-![light-creator](../light-creator.webp)
+![bird-creator](../bird-creator.webp)
 
-"Creation of the Birds" by Remedios Varo, painted in 1957, is a spellbinding artwork that unfolds a surreal narrative of transformation and enchantment. Varo's meticulous detail and dreamlike symbolism depict a mystical alchemist surrounded by winged beings, weaving a tapestry of magical realism. The ethereal atmosphere and intricate patterns evoke a sense of otherworldly wonder, inviting viewers to delve into the artist's imaginative universe. Through her mastery of technique and evocative storytelling, Varo crafts a transcendent tableau that blurs the boundaries between reality and fantasy, leaving an indelible mark on those who encounter the enchanting "Creation of the Birds."
+La Creación de las Aves (The Creation of Birds) by Spanish-Mexican surrealist painter Remedios Varo is delightfully strange, fantastically whimsical, and wildly creative. It’s alchemy, science, and dreams.
 
-_(ChatGPT)_
+Varo combined traditional techniques, surrealism, and visionary landscapes to build a magical world. In La Creación de las Aves, one of her most famous paintings, she used these techniques to create a magnificent scene: a mysterious alchemical lab, a young, genderless owl-like creature (una lechuza) sitting at a tiny desk bringing to life delicate little birds with the light energy of a faraway star, only to see them fly away.
+
+A nearby machine looks insect-like, its tentacle-like hand depositing paint onto a palette. The creature is endearing and noble – especially in the tilt of the feathered head and the downcast eyes.
+
+“The dream world and the real world are the same,” Varo said in an interview. The tone of the painting is somewhat religious; some compare it to Michelangelo’s Creation of Adam. There certainly is a fantastic, spiritual energy to the painting – the ethos of creation by the bird-like creature.
+
+_(https://nuestrostories.com/2023/02/taking-a-closer-look-at-remedios-varos-la-creacion-de-las-aves/#:~:text=La%20Creaci%C3%B3n%20de%20las%20Aves%20(The%20Creation%20of%20Birds)%20by,to%20build%20a%20magical%20world.)_
