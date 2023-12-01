@@ -1,0 +1,19 @@
+{
+  "title": "Alhambra | Alhamar",
+  "date": "2023-12-01T00:00:00.000Z",
+  "body": {
+    "raw": "\r\n![alhambra](../alhambra.jpg)\r\n\r\nThe name Alhambra has its origins in an Arabic word meaning \"red castle or vermilion\", perhaps due to the color tone of the towers and walls that completely surround the hill of La Sabica, which under the light of the stars is Of silver color, but in the light of the sun acquires a golden tone. Although there is a more poetic explanation, narrated by the Muslim chroniclers who talk about the construction of the Alhambra \"under the light of the torches.\" Created originally for military purposes, the Alhambra was a fortress, a palace and a small medina, all at the same time. This triple character helps us understand the many characteristics of this monument.\r\n\r\n_(https://www.alhambra.org/en/alhambra-history.html)_\r\n",
+    "html": "<p><img src=\"../alhambra.jpg\" alt=\"alhambra\"></p>\n<p>The name Alhambra has its origins in an Arabic word meaning \"red castle or vermilion\", perhaps due to the color tone of the towers and walls that completely surround the hill of La Sabica, which under the light of the stars is Of silver color, but in the light of the sun acquires a golden tone. Although there is a more poetic explanation, narrated by the Muslim chroniclers who talk about the construction of the Alhambra \"under the light of the torches.\" Created originally for military purposes, the Alhambra was a fortress, a palace and a small medina, all at the same time. This triple character helps us understand the many characteristics of this monument.</p>\n<p><em>(https://www.alhambra.org/en/alhambra-history.html)</em></p>"
+  },
+  "_id": "post-05.md",
+  "_raw": {
+    "sourceFilePath": "post-05.md",
+    "sourceFileName": "post-05.md",
+    "sourceFileDir": ".",
+    "contentType": "markdown",
+    "flattenedPath": "post-05"
+  },
+  "type": "Post",
+  "url": "/posts/post-05",
+  "slug": "post-05"
+}

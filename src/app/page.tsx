@@ -6,8 +6,8 @@ export default function Home() {
       <section>
         <p>If you are looking for: </p>
         <ul className="list-disc">
-          <li>Alternative art</li>
-          <li>Descriptions of your favourite pieces of art</li>
+          <li>A wide variety of art forms</li>
+          <li>Descriptions of pieces of art</li>
           <li>A forum to express your opinions on art</li>
           <br />
           <p className="text-center">This is your blog!</p>

@@ -1,0 +1,19 @@
+{
+  "title": "SpiderMan Across the Spider-Verse",
+  "date": "2023-12-01T00:00:00.000Z",
+  "body": {
+    "raw": "\r\n![Spider-Verse](../Spider-Verse.webp)\r\n\r\nThe art style of the film as a whole is a direct homage to its comic book origins, with each second feeling like an illustration ripped straight from the page—frames and all. From hand-drawn stills in moments of emphasis to the creative use of halftones and misaligned colors which hearken back to the offset printing techniques that were used to make comic books, Spider-Man: Across the Spider-Verse manages to pay homage to its roots while crafting a creative lane all its own.\r\n\r\n_(https://www.sessions.edu/notes-on-design/illustration-art-styles-utilized-in-spider-man-across-the-spider-verse/#:~:text=From%20hand%2Ddrawn%20stills%20in,creative%20lane%20all%20its%20own.)_\r\n",
+    "html": "<p><img src=\"../Spider-Verse.webp\" alt=\"Spider-Verse\"></p>\n<p>The art style of the film as a whole is a direct homage to its comic book origins, with each second feeling like an illustration ripped straight from the page—frames and all. From hand-drawn stills in moments of emphasis to the creative use of halftones and misaligned colors which hearken back to the offset printing techniques that were used to make comic books, Spider-Man: Across the Spider-Verse manages to pay homage to its roots while crafting a creative lane all its own.</p>\n<p><em>(https://www.sessions.edu/notes-on-design/illustration-art-styles-utilized-in-spider-man-across-the-spider-verse/#:~:text=From%20hand%2Ddrawn%20stills%20in,creative%20lane%20all%20its%20own.)</em></p>"
+  },
+  "_id": "post-06.md",
+  "_raw": {
+    "sourceFilePath": "post-06.md",
+    "sourceFileName": "post-06.md",
+    "sourceFileDir": ".",
+    "contentType": "markdown",
+    "flattenedPath": "post-06"
+  },
+  "type": "Post",
+  "url": "/posts/post-06",
+  "slug": "post-06"
+}

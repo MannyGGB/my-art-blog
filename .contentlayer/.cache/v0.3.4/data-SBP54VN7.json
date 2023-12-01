@@ -95,6 +95,78 @@
       "documentHash": "1701368221877",
       "hasWarnings": false,
       "documentTypeName": "Post"
+    },
+    "post-05.md": {
+      "document": {
+        "title": "Alhambra | Alhamar",
+        "date": "2023-12-01T00:00:00.000Z",
+        "body": {
+          "raw": "\r\n![alhambra](../alhambra.jpg)\r\n\r\nThe name Alhambra has its origins in an Arabic word meaning \"red castle or vermilion\", perhaps due to the color tone of the towers and walls that completely surround the hill of La Sabica, which under the light of the stars is Of silver color, but in the light of the sun acquires a golden tone. Although there is a more poetic explanation, narrated by the Muslim chroniclers who talk about the construction of the Alhambra \"under the light of the torches.\" Created originally for military purposes, the Alhambra was a fortress, a palace and a small medina, all at the same time. This triple character helps us understand the many characteristics of this monument.\r\n\r\n_(https://www.alhambra.org/en/alhambra-history.html)_\r\n",
+          "html": "<p><img src=\"../alhambra.jpg\" alt=\"alhambra\"></p>\n<p>The name Alhambra has its origins in an Arabic word meaning \"red castle or vermilion\", perhaps due to the color tone of the towers and walls that completely surround the hill of La Sabica, which under the light of the stars is Of silver color, but in the light of the sun acquires a golden tone. Although there is a more poetic explanation, narrated by the Muslim chroniclers who talk about the construction of the Alhambra \"under the light of the torches.\" Created originally for military purposes, the Alhambra was a fortress, a palace and a small medina, all at the same time. This triple character helps us understand the many characteristics of this monument.</p>\n<p><em>(https://www.alhambra.org/en/alhambra-history.html)</em></p>"
+        },
+        "_id": "post-05.md",
+        "_raw": {
+          "sourceFilePath": "post-05.md",
+          "sourceFileName": "post-05.md",
+          "sourceFileDir": ".",
+          "contentType": "markdown",
+          "flattenedPath": "post-05"
+        },
+        "type": "Post",
+        "url": "/posts/post-05",
+        "slug": "post-05"
+      },
+      "documentHash": "1701418020615",
+      "hasWarnings": false,
+      "documentTypeName": "Post"
+    },
+    "post-06.md": {
+      "document": {
+        "title": "SpiderMan Across the Spider-Verse",
+        "date": "2023-12-01T00:00:00.000Z",
+        "body": {
+          "raw": "\r\n![Spider-Verse](../Spider-Verse.webp)\r\n\r\nThe art style of the film as a whole is a direct homage to its comic book origins, with each second feeling like an illustration ripped straight from the page—frames and all. From hand-drawn stills in moments of emphasis to the creative use of halftones and misaligned colors which hearken back to the offset printing techniques that were used to make comic books, Spider-Man: Across the Spider-Verse manages to pay homage to its roots while crafting a creative lane all its own.\r\n\r\n_(https://www.sessions.edu/notes-on-design/illustration-art-styles-utilized-in-spider-man-across-the-spider-verse/#:~:text=From%20hand%2Ddrawn%20stills%20in,creative%20lane%20all%20its%20own.)_\r\n",
+          "html": "<p><img src=\"../Spider-Verse.webp\" alt=\"Spider-Verse\"></p>\n<p>The art style of the film as a whole is a direct homage to its comic book origins, with each second feeling like an illustration ripped straight from the page—frames and all. From hand-drawn stills in moments of emphasis to the creative use of halftones and misaligned colors which hearken back to the offset printing techniques that were used to make comic books, Spider-Man: Across the Spider-Verse manages to pay homage to its roots while crafting a creative lane all its own.</p>\n<p><em>(https://www.sessions.edu/notes-on-design/illustration-art-styles-utilized-in-spider-man-across-the-spider-verse/#:~:text=From%20hand%2Ddrawn%20stills%20in,creative%20lane%20all%20its%20own.)</em></p>"
+        },
+        "_id": "post-06.md",
+        "_raw": {
+          "sourceFilePath": "post-06.md",
+          "sourceFileName": "post-06.md",
+          "sourceFileDir": ".",
+          "contentType": "markdown",
+          "flattenedPath": "post-06"
+        },
+        "type": "Post",
+        "url": "/posts/post-06",
+        "slug": "post-06"
+      },
+      "documentHash": "1701418774765",
+      "hasWarnings": false,
+      "documentTypeName": "Post"
+    },
+    "post-07.md": {
+      "document": {
+        "title": "Sea of Stars",
+        "date": "2023-12-01T00:00:00.000Z",
+        "body": {
+          "raw": "\r\n![sea-of-stars](../sea-of-stars.webp)\r\n\r\nA lot of that nostalgia came from Sea of Stars’ gorgeous pixel art, which looks similar to games like Secret of Mana and Chrono Trigger but with an incredible amount of modern-day detail. Leaves sway slightly as if moved by a real breeze. Water ripples as people run through it. When main characters talk, their text boxes have expressive faces that make each of them feel memorable. Hyper-detailed bosses can take up half the screen with their extra appendages or giant heads. Every time I got to a new area, I couldn’t wait to see what visual delights were ahead.\r\n\r\n_(https://www.theverge.com/23864117/sea-of-stars-review-rpg)_\r\n",
+          "html": "<p><img src=\"../sea-of-stars.webp\" alt=\"sea-of-stars\"></p>\n<p>A lot of that nostalgia came from Sea of Stars’ gorgeous pixel art, which looks similar to games like Secret of Mana and Chrono Trigger but with an incredible amount of modern-day detail. Leaves sway slightly as if moved by a real breeze. Water ripples as people run through it. When main characters talk, their text boxes have expressive faces that make each of them feel memorable. Hyper-detailed bosses can take up half the screen with their extra appendages or giant heads. Every time I got to a new area, I couldn’t wait to see what visual delights were ahead.</p>\n<p><em>(https://www.theverge.com/23864117/sea-of-stars-review-rpg)</em></p>"
+        },
+        "_id": "post-07.md",
+        "_raw": {
+          "sourceFilePath": "post-07.md",
+          "sourceFileName": "post-07.md",
+          "sourceFileDir": ".",
+          "contentType": "markdown",
+          "flattenedPath": "post-07"
+        },
+        "type": "Post",
+        "url": "/posts/post-07",
+        "slug": "post-07"
+      },
+      "documentHash": "1701419202645",
+      "hasWarnings": false,
+      "documentTypeName": "Post"
     }
   }
 }
